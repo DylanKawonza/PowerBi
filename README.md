@@ -1,92 +1,92 @@
-# Tableau
+# PowerBI
 
-📊 Tableau Data Visualisation Project – Data Technician Bootcamp
-This repository showcases my Tableau work completed during the Level 3 Data Technician Bootcamp, focusing on building interactive dashboards, exploring global health trends, and visualising retail and sales insights.
-The project demonstrates my ability to turn raw data into clear, meaningful stories using Tableau’s visual analytics tools.
+📊 Power BI Retail & Sales Analysis Project – Data Technician Bootcamp
+This repository contains my Power BI work completed during the Level 3 Data Technician Bootcamp, focusing on transforming raw retail and sales data into clear, interactive, insight‑driven reports.
+The project demonstrates my ability to clean data, model it effectively, build DAX calculations, and design dashboards that support data‑driven decision‑making.
 
 🧠 Key Skills Demonstrated
-🎛 Interactive Dashboard Design
-Combined multiple worksheets into a single, user‑friendly dashboard
+🧹 Data Cleaning & Transformation (Power Query)
+Removed errors, duplicates, and null values
 
-Applied global and worksheet‑level filters
+Split, merged, and reshaped columns
 
-Used slicers and dropdowns for dynamic exploration
+Changed data types and applied formatting
 
-Published dashboards to Tableau Public
+Created custom transformation steps
+
+Combined data from multiple sources (Excel + OData feed)
+
+📐 Data Modelling & DAX
+Created calculated columns and measures using DAX, including:
+
+Aggregations (SUM, AVERAGE, COUNT)
+
+Time‑intelligence logic
+
+Conditional calculations
+
+KPI‑style measures for performance tracking
+
+🎛 Interactive Reporting
+Slicers for filtering by category, date, region, and product
+
+Page‑level, visual‑level, and report‑level filters
+
+Drill‑through pages for deeper insights
+
+Dynamic visuals that respond to user selections
 
 📈 Visualisation Techniques
-Created a variety of chart types, including:
+Built a variety of visuals to communicate insights clearly:
 
-Bar charts – comparing life expectancy across continents
+Bar & column charts – product performance, category comparisons
 
-Line charts – tracking life expectancy trends over time
+Line charts – sales trends over time
 
-Pie charts – gender‑based population distribution
+Pie & donut charts – distribution breakdowns
 
-Scatter plots – analysing relationships between BMI and life expectancy
+Maps – geographic sales insights
 
-Custom visual of choice – additional insights from the dataset
-
-🧮 Calculated Fields & Analytics
-Used calculated fields to support filtering and ranking (e.g., Top N countries)
-
-Applied percentage‑of‑total calculations
-
-Used colour encoding, labels, and tooltips to enhance clarity
-
-🔍 Data Exploration & Storytelling
-Identified global health disparities
-
-Highlighted trends in life expectancy
-
-Explored population structure and BMI relationships
-
-Communicated insights relevant to organisations like the NHS or global health bodies
+Cards & KPIs – key metrics at a glance
 
 📘 Project Highlights
-🌍 Global Health Dashboard
-Using the GapminderHealth dataset, I created:
+✔ Retail & Sales Dashboard
+Analysed retail and sales data to uncover:
 
-Life Expectancy by Continent (most recent year)
+Top‑performing products
 
-Life Expectancy Trend for the Top 5 countries
+Regional sales differences
 
-Population by Gender (latest year, filterable by country)
+Monthly and yearly trends
 
-Life Expectancy vs BMI scatter plot
+Customer behaviour patterns
 
-Additional visual of choice
+Category‑level performance
 
-All visuals were combined into an interactive dashboard published on Tableau Public.
+✔ Data Transformation Labs
+Completed multiple Power BI labs covering:
 
-🔗 Dashboard Link:  
-https://public.tableau.com/views/healthdashboard_17785910122360/Dashboard1 (public.tableau.com in Bing)
+Cleaning and shaping data
 
-🎵 Spotify Features Dashboard (Optional Task)
-Analysed Spotify track data to explore:
+Designing interactive reports
 
-Artist popularity
+Creating DAX calculations
 
-Genre distribution
+Combining multiple data sources
 
-Danceability and energy levels
-
-Track characteristics
-
-🔗 Dashboard Link:  
-https://public.tableau.com/views/ArtistpopuarityBasedongenredanceabilityandenergy/Dashboard1 (public.tableau.com in Bing)
+These labs strengthened my understanding of the full Power BI workflow—from raw data to polished dashboards.
 
 🎯 What This Project Demonstrates
 This project highlights my ability to:
 
-Build interactive dashboards
+Clean and transform data using Power Query
 
-Use filters, slicers, and calculated fields
+Build calculated columns and measures with DAX
 
-Create a wide range of visualisations
+Design interactive, user‑friendly dashboards
 
-Analyse and communicate insights from real datasets
+Use a wide range of visualisation types
 
-Apply data storytelling techniques to support decision‑making
+Tell clear data stories using real business datasets
 
-It represents a key step in my development as a data analyst, showcasing practical Tableau skills used in real analytics roles.
+It represents a key step in my development as a data analyst, showcasing practical Power BI skills used in real analytics roles.
