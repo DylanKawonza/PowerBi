@@ -1,4 +1,4 @@
-# Tableau-and-PowerBi
+# Tableau
 
 📊 Tableau Data Visualisation Project – Data Technician Bootcamp
 This repository showcases my Tableau work completed during the Level 3 Data Technician Bootcamp, focusing on building interactive dashboards, exploring global health trends, and visualising retail and sales insights.
