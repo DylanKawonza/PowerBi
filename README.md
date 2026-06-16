@@ -62,7 +62,10 @@ Analysed retail and sales data to uncover:
 - Regional sales differences  
 - Monthly and yearly trends  
 - Customer behaviour patterns  
-- Category‑level performance  
+- Category‑level performance
+
+  <img width="1915" height="982" alt="lab 2 " src="https://github.com/user-attachments/assets/429e6f6d-a92f-4dcf-b328-07849969a408" />
+
 
 ---
 
@@ -74,6 +77,7 @@ Completed multiple Power BI labs covering:
 - Designing interactive reports  
 - Creating DAX calculations  
 - Combining multiple data sources  
+
 
 These labs strengthened my understanding of the full Power BI workflow — from raw data to polished dashboards.
 
@@ -87,6 +91,10 @@ This project highlights my ability to:
 - Build calculated columns and measures with DAX  
 - Design interactive, user‑friendly dashboards  
 - Use a wide range of visualisation types  
-- Tell clear data stories using real business datasets  
+- Tell clear data stories using real business datasets
+
+This is an excert of a Pivot table I made to calculate the sum of sales and profits per sales person. It also shows the most profitable categories by sales and I did this using the Adventure Works data set
+  <img width="1518" height="915" alt="bombo2" src="https://github.com/user-attachments/assets/bc193812-2f47-4ef3-a776-5f4d06e93f2d" />
+
 
 It represents a key step in my development as a data analyst, showcasing practical Power BI skills used in real analytics roles.
